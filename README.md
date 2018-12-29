@@ -1,6 +1,6 @@
 # terraform-ec2-docker-jekyll
 
-This demo uses Terraform to provision an EC2 instance with basic Security Group policy, then launch a jekyll web site in a docker container.
+This demo uses Terraform to provision an EC2 instance with basic Security Group policy, then launch a [jekyll](https://jekyllrb.com/) demo blog inside a Docker container.
 
 What you will need:
 
